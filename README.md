@@ -24,7 +24,6 @@
 ├── signals/                        # 訊號分析模組
 ├── output/                         # 輸出目錄
 ├── main.py                         # 主程式入口
-├── Indicators.py                   # 技術指標計算
 ├── signals.py                      # 訊號分析模組
 ├── config.ini                      # 配置檔案
 ├── .env                            # 環境變數配置
