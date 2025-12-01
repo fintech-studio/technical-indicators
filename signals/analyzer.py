@@ -6,7 +6,6 @@ import sys
 import time
 import pandas as pd
 
-# 當以腳本直接執行時，確保專案根目錄在 sys.path，讓子資料夾 `signals` 可被絕對匯入
 script_dir = os.path.dirname(os.path.abspath(__file__))
 if script_dir not in sys.path:
     sys.path.insert(0, script_dir)
